@@ -19,3 +19,4 @@ To analyze ecommerce sales data and generate actionable business insights.
 
 ### 🔹 Conclusion
 This dashboard helps businesses make data-driven decisions.
+![Dashboard](madhav Sales Dashboard view Screenshot(3).png)
